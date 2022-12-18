@@ -1,2 +1,2 @@
 # Edureka
-This is first respository
+This is first repository
